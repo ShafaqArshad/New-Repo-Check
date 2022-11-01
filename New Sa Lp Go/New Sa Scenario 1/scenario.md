@@ -1,7 +1,8 @@
 title: New Sa Scenario 1
 description: Understanding python and go scenaarios for testing the description of lp
 time: 20 minutes
-steps: []
+steps: 
+  - step1.mde
 isNew: true
 isPremium: true
 isAvailable: true
