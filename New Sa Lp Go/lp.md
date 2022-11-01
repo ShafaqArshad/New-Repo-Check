@@ -4,6 +4,6 @@ description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty r
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 1
+scenarioCount: two
 scenarios:
   - New Sa Scenario 1
